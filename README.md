@@ -1,4 +1,6 @@
 # Cloud paper
+[![CircleCI](https://circleci.com/gh/ohtamasato/cloud-paper/tree/master.svg?style=svg)](https://circleci.com/gh/ohtamasato/cloud-paper/tree/master)
+
 Web APIs for Sony Digital Paper (just for my hobby)
 
 ## Environments
