@@ -45,6 +45,8 @@ group :development, :test do
   gem 'factory_bot_rails'
   gem 'rails-controller-testing'
   gem 'rspec_junit_formatter'
+  # Coding style by RuboCop
+  gem 'rubocop'
 end
 
 group :development do
