@@ -1,0 +1,8 @@
+Style/StringLiterals:
+  # For better readability, this project prefers double quotations.
+  EnforcedStyle: double_quotes
+
+AllCops:
+  # Keep these updated accordingly to README.md
+  TargetRubyVersion: 2.5
+  TargetRailsVersion: 5.2
